@@ -1,0 +1,15 @@
+/workspaces/basic-projects/bin/Debug/net7.0/basic-projects
+/workspaces/basic-projects/bin/Debug/net7.0/basic-projects.deps.json
+/workspaces/basic-projects/bin/Debug/net7.0/basic-projects.runtimeconfig.json
+/workspaces/basic-projects/bin/Debug/net7.0/basic-projects.dll
+/workspaces/basic-projects/bin/Debug/net7.0/basic-projects.pdb
+/workspaces/basic-projects/obj/Debug/net7.0/basic-projects.csproj.AssemblyReference.cache
+/workspaces/basic-projects/obj/Debug/net7.0/basic-projects.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/basic-projects/obj/Debug/net7.0/basic-projects.AssemblyInfoInputs.cache
+/workspaces/basic-projects/obj/Debug/net7.0/basic-projects.AssemblyInfo.cs
+/workspaces/basic-projects/obj/Debug/net7.0/basic-projects.csproj.CoreCompileInputs.cache
+/workspaces/basic-projects/obj/Debug/net7.0/basic-projects.dll
+/workspaces/basic-projects/obj/Debug/net7.0/refint/basic-projects.dll
+/workspaces/basic-projects/obj/Debug/net7.0/basic-projects.pdb
+/workspaces/basic-projects/obj/Debug/net7.0/basic-projects.genruntimeconfig.cache
+/workspaces/basic-projects/obj/Debug/net7.0/ref/basic-projects.dll
